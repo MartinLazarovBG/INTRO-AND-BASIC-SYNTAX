@@ -1,0 +1,6 @@
+c:\users\мартин\documents\visual studio 2017\Projects\INTRO AND BASIC SYNTAX\Task 2\bin\Debug\Task 2.exe.config
+c:\users\мартин\documents\visual studio 2017\Projects\INTRO AND BASIC SYNTAX\Task 2\bin\Debug\Task 2.exe
+c:\users\мартин\documents\visual studio 2017\Projects\INTRO AND BASIC SYNTAX\Task 2\bin\Debug\Task 2.pdb
+c:\users\мартин\documents\visual studio 2017\Projects\INTRO AND BASIC SYNTAX\Task 2\obj\Debug\Task 2.csprojResolveAssemblyReference.cache
+c:\users\мартин\documents\visual studio 2017\Projects\INTRO AND BASIC SYNTAX\Task 2\obj\Debug\Task 2.exe
+c:\users\мартин\documents\visual studio 2017\Projects\INTRO AND BASIC SYNTAX\Task 2\obj\Debug\Task 2.pdb
