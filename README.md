@@ -1,3 +1,5 @@
 # INTRO-AND-BASIC-SYNTAX
 Homework
-This will make a conflict!
+Repo made for exercises 
+We resolved the conflict!
+
